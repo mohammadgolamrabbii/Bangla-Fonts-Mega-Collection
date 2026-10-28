@@ -4,11 +4,21 @@
 [![Total Fonts](https://img.shields.io/badge/Total%20Fonts-2%2C600%2B-brightgreen.svg)](#)
 [![Unicode](https://img.shields.io/badge/Unicode%20Fonts-1%2C329-blue.svg)](#)
 [![Bijoy ANSI](https://img.shields.io/badge/Bijoy%2FANSI%20Fonts-1%2C250-orange.svg)](#)
+[![Archive.org](https://img.shields.io/badge/Archive.org-Permanent_Mirror-000000?style=flat-square&logo=internet-archive&logoColor=white)](https://archive.org/details/open-typography-foundation-bangla-fonts)
 [![Curated by](https://img.shields.io/badge/Curated%20by-Mohammad%20Golamrabbii-purple.svg)](https://github.com/mohammadgolamrabbii)
 
 গ্রাফিক্স ডিজাইনার, ওয়েব ডেভেলপার, কন্টেন্ট ক্রিয়েটর এবং অফিসিয়াল কাজের জন্য ইন্টারনেটের সর্ববৃহৎ ও আধুনিক বাংলা ফন্ট লাইব্রেরি। এই কালেকশনে ক্লাসিক প্রেস প্রিন্টিং থেকে শুরু করে বর্তমান সময়ের আধুনিক ক্যালিগ্রাফি ও ডিসপ্লে ফন্টগুলো নিখুঁতভাবে সাজানো রয়েছে।
 
 ---
+
+
+---
+
+## 🏛️ লাইফলং পার্মানেন্ট মিরর (Internet Archive Lifelong Preservation)
+যেকোনো নেটওয়ার্ক স্পিডে ও গিটহাবের রেট লিমিট ছাড়া সম্পূর্ণ বাংলা ফন্ট কালেকশনটি এক ক্লিকে ডাউনলোড করতে Archive.org মিরর ব্যবহার করুন:
+* 📦 **[Archive.org সরাসরি ডাউনলোড লিংক (229 MB ZIP)](https://archive.org/details/open-typography-foundation-bangla-fonts)**
+* 🧲 **[Archive.org BitTorrent ডাউনলোড](https://archive.org/download/open-typography-foundation-bangla-fonts/open-typography-foundation-bangla-fonts_archive.torrent)**
+* 🏛️ **[Open Typography Foundation মাস্টার হাব](https://archive.org/details/open-typography-foundation)**
 
 ## 📁 ফোল্ডার সংগঠন (Folder Structure)
 
